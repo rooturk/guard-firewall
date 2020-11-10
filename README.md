@@ -1,3 +1,3 @@
 
 # rooturk
-vds,vps server firewall
+server firewall
